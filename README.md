@@ -44,6 +44,8 @@ Sentence BERT는 bert를 문장단위 Embedding을 통하여 빠르고 효율적
 1. 데이터 Preprocessing
 
    `./KorNLUDatasets/` 디렉토리에 KorNLUDatasets 데이터셋 화일을 넣어준다.
+                       해당 튜닝된 화일은 Ko-Sentence-BERT 에서 구할 수 있다.
+                       원본 데이터셋일경우 가공이 필요하다.
 
    - `KorNLUDatasets/KorNLI/snli_1.0_train.ko.tsv`: 트레이닝에 사용된 NLI.  
    - `KorNLUDatasets/KorSTS/tune_dev.tsv`: Ko-Sentence-BERT에서 사용한 튜닝된 STS 데이터.
