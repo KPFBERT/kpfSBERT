@@ -12,6 +12,7 @@ Sentence BERT는 bert를 문장단위 Embedding을 통하여 빠르고 효율적
 
 - 한국어 데이터 셋은 카카오브레인에서 제공하는 [KorNLI and KorSTS](https://github.com/kakaobrain/KorNLUDatasets)를 사용하였다.
 
+- YouTube 'BERT란 무엇인가' 설명 링크 https://youtu.be/Pj6563CAnKs
 
 ### Bert를 이용한 문서요약 관련 논문 및 코드
 
